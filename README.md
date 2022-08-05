@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sastra</h1>
-<h3>👀 I am interested in Web Developer or Backend Developer</h3>
+
+- ⚡ I am interested in Web Developer or Backend Developer
 
 - 🌱 I’m currently learning **Laravel and Vue JS**
 
