@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**sastra12/sastra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sastra</h1>
+<h3 align="center">👀 I am interested in Web Developer or Backend Developer</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Laravel and Vue JS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 you can reach me at **rsastra901@gmail.com**
+
+- 💞️ I’m looking to collaborate on whatever
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
