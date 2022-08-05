@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Sastra</h1>
+### Hi there 👋, I'm Sastra
 
 - ⚡ I am interested in Web Developer or Backend Developer
 
