@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sastra
 
-- ⚡ I am interested in Web Developer or Backend Developer
+- ⚡ I am interested in Web Developer
 
 - 🌱 I’m currently learning **Laravel and Vue JS**
 
